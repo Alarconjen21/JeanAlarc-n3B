@@ -1,0 +1,11 @@
+C:\Users\VAIO\source\repos\PIla\PIla\bin\Debug\netcoreapp3.0\PIla.exe
+C:\Users\VAIO\source\repos\PIla\PIla\bin\Debug\netcoreapp3.0\PIla.deps.json
+C:\Users\VAIO\source\repos\PIla\PIla\bin\Debug\netcoreapp3.0\PIla.runtimeconfig.json
+C:\Users\VAIO\source\repos\PIla\PIla\bin\Debug\netcoreapp3.0\PIla.runtimeconfig.dev.json
+C:\Users\VAIO\source\repos\PIla\PIla\bin\Debug\netcoreapp3.0\PIla.dll
+C:\Users\VAIO\source\repos\PIla\PIla\bin\Debug\netcoreapp3.0\PIla.pdb
+C:\Users\VAIO\source\repos\PIla\PIla\obj\Debug\netcoreapp3.0\PIla.csprojAssemblyReference.cache
+C:\Users\VAIO\source\repos\PIla\PIla\obj\Debug\netcoreapp3.0\PIla.AssemblyInfoInputs.cache
+C:\Users\VAIO\source\repos\PIla\PIla\obj\Debug\netcoreapp3.0\PIla.AssemblyInfo.cs
+C:\Users\VAIO\source\repos\PIla\PIla\obj\Debug\netcoreapp3.0\PIla.dll
+C:\Users\VAIO\source\repos\PIla\PIla\obj\Debug\netcoreapp3.0\PIla.pdb

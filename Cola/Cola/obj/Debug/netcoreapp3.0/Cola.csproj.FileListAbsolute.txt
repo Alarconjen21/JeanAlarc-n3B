@@ -1,0 +1,11 @@
+C:\Users\VAIO\source\repos\Cola\Cola\bin\Debug\netcoreapp3.0\Cola.exe
+C:\Users\VAIO\source\repos\Cola\Cola\bin\Debug\netcoreapp3.0\Cola.deps.json
+C:\Users\VAIO\source\repos\Cola\Cola\bin\Debug\netcoreapp3.0\Cola.runtimeconfig.json
+C:\Users\VAIO\source\repos\Cola\Cola\bin\Debug\netcoreapp3.0\Cola.runtimeconfig.dev.json
+C:\Users\VAIO\source\repos\Cola\Cola\bin\Debug\netcoreapp3.0\Cola.dll
+C:\Users\VAIO\source\repos\Cola\Cola\bin\Debug\netcoreapp3.0\Cola.pdb
+C:\Users\VAIO\source\repos\Cola\Cola\obj\Debug\netcoreapp3.0\Cola.csprojAssemblyReference.cache
+C:\Users\VAIO\source\repos\Cola\Cola\obj\Debug\netcoreapp3.0\Cola.AssemblyInfoInputs.cache
+C:\Users\VAIO\source\repos\Cola\Cola\obj\Debug\netcoreapp3.0\Cola.AssemblyInfo.cs
+C:\Users\VAIO\source\repos\Cola\Cola\obj\Debug\netcoreapp3.0\Cola.dll
+C:\Users\VAIO\source\repos\Cola\Cola\obj\Debug\netcoreapp3.0\Cola.pdb
